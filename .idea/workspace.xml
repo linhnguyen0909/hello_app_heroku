@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e1fdc5-2866-4d62-bc2d-5cd3a5975804" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +28,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -170,7 +171,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613534492576</updated>
-      <workItem from="1613534494393" duration="2992000" />
+      <workItem from="1613534494393" duration="3674000" />
+      <workItem from="1613554839842" duration="1026000" />
+      <workItem from="1613610181392" duration="1901000" />
+      <workItem from="1613632621885" duration="2723000" />
     </task>
     <servers />
   </component>
@@ -187,12 +191,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="725" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613534654789">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="725" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1613534654789" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1613619076266">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1613619076266" />
+    <state x="772" y="242" key="RollbackChangesDialog" timestamp="1613633318144">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="772" y="242" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1613633318144" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1613534604314">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
