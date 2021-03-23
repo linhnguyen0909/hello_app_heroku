@@ -84,30 +84,31 @@
                         <nav id="main-nav" class="main-nav">
                             <ul id="menu-primary-menu" class="menu">
                                 <li class="menu-item menu-item-has-children current-menu-item">
-                                    <a href="index.html">HOME</a>
+                                    <a href="index.html">TRANG CHỦ</a>
                                     <ul class="sub-menu">
                                         <li class="menu-item current-item"><a href="index.html">HOME 1</a></li>
                                         <li class="menu-item"><a href="home-2.html">HOME 2</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a href="page-about.html">ABOUT US </a>
+                                    <a href="page-about.html">GIỚI THIỆU</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="page-about.html">ABOUT US</a></li>
-                                        <li class="menu-item"><a href="page-about-detail.html">ABOUT DETAIL</a></li>
-                                        <li class="menu-item"><a href="page-about-team.html">ABOUT TEAM</a></li>
-                                        <li class="menu-item"><a href="page-about-careers.html">ABOUT CAREERS</a></li>
+                                        <li class="menu-item"><a href="page-about.html">Giới Thiệu</a></li>
+                                        <li class="menu-item"><a href="page-about-detail.html">Hồ Sơ Pháp Lý</a></li>
+                                        <li class="menu-item"><a href="page-about-team.html">Tuyển Dụng</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a href="page-services.html">SERVICES</a>
+                                    <a href="page-services.html">DỊCH VỤ</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="page-services.html">SERVICES</a></li>
-                                        <li class="menu-item"><a href="page-services-detail.html">SERVICES DETAIL</a></li>
+                                        <li class="menu-item"><a href="page-services.html">Tổng Thầu</a></li>
+                                        <li class="menu-item"><a href="page-services-detail.html">Dịch Vụ Môi Trường</a></li>
+                                        <li class="menu-item"><a href="page-services.html">Tư Vấn Giám Sát</a></li>
+                                        <li class="menu-item"><a href="page-services.html">Vận Hành Bảo Trì</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a href="page-projects.html">PROJECTS</a>
+                                    <a href="page-projects.html">CÔNG TRÌNH</a>
                                     <ul class="sub-menu">
                                         <li class="menu-item"><a href="page-projects.html">PROJECTS</a></li>
                                         <li class="menu-item"><a href="page-projects-full.html">PROJECTS FULL WIDTH</a></li>
@@ -115,24 +116,17 @@
                                     </ul>
                                 </li>
                                 <li class="menu-item menu-item-has-children" >
-                                    <a href="page-testimonial.html">PAGE</a>
+                                    <a href="page-testimonial.html">TIN TỨC</a>
                                     <ul class="sub-menu">
                                         <li class="menu-item"><a href="page-testimonial.html">PAGE TESTIMONIAL</a></li>
                                         <li class="menu-item"><a href="page-pricing.html">PAGE PRICING</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
-                                    <a href="page-blog.html">BLOG</a>
+                                    <a href="page-blog.html">LIÊN HỆ</a>
                                     <ul class="sub-menu right-sub-menu">
                                         <li class="menu-item"><a href="page-blog.html">BLOG</a></li>
                                         <li class="menu-item"><a href="page-blog-single.html">BLOG SINGLE</a></li>
-                                    </ul>
-                                </li>
-                                <li class="menu-item menu-item-has-children">
-                                    <a href="page-contact.html">CONTACT</a>
-                                    <ul class="sub-menu right-sub-menu">
-                                        <li class="menu-item"><a href="page-contact.html">CONTACT 1</a></li>
-                                        <li class="menu-item"><a href="page-contact-2.html">CONTACT 2</a></li>
                                     </ul>
                                 </li>
                             </ul>
