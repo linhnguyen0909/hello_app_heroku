@@ -44,8 +44,8 @@
                     <div class="top-bar-inner-wrap">
                         <div class="top-bar-content">
                             <div class="inner">
-                                <span class="address content">4946 Marmora Road, Central New</span>
-                                <span class="phone content">+61 3 8376 6284</span>
+                                <span class="address content">405/15 Trường chinh NGUYỄN HOÀI LINH</span>
+                                <span class="phone content">+84 3 8585 1795</span>
                                 <span class="time content">Mon-Sat: 8am - 6pm</span>
                             </div>
                         </div><!-- /.top-bar-content -->
@@ -109,25 +109,25 @@
                                 </li>
                                 <li class="menu-item menu-item-has-children">
                                     <a href="page-projects.html">CÔNG TRÌNH</a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item"><a href="page-projects.html">PROJECTS</a></li>
-                                        <li class="menu-item"><a href="page-projects-full.html">PROJECTS FULL WIDTH</a></li>
-                                        <li class="menu-item"><a href="page-project-detail.html">PROJECTS DETAIL</a></li>
-                                    </ul>
+{{--                                    <ul class="sub-menu">--}}
+{{--                                        <li class="menu-item"><a href="page-projects.html">PROJECTS</a></li>--}}
+{{--                                        <li class="menu-item"><a href="page-projects-full.html">PROJECTS FULL WIDTH</a></li>--}}
+{{--                                        <li class="menu-item"><a href="page-project-detail.html">PROJECTS DETAIL</a></li>--}}
+{{--                                    </ul>--}}
                                 </li>
                                 <li class="menu-item menu-item-has-children" >
                                     <a href="page-testimonial.html">TIN TỨC</a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item"><a href="page-testimonial.html">PAGE TESTIMONIAL</a></li>
-                                        <li class="menu-item"><a href="page-pricing.html">PAGE PRICING</a></li>
-                                    </ul>
+{{--                                    <ul class="sub-menu">--}}
+{{--                                        <li class="menu-item"><a href="page-testimonial.html">PAGE TESTIMONIAL</a></li>--}}
+{{--                                        <li class="menu-item"><a href="page-pricing.html">PAGE PRICING</a></li>--}}
+{{--                                    </ul>--}}
                                 </li>
                                 <li class="menu-item menu-item-has-children">
                                     <a href="page-blog.html">LIÊN HỆ</a>
-                                    <ul class="sub-menu right-sub-menu">
-                                        <li class="menu-item"><a href="page-blog.html">BLOG</a></li>
-                                        <li class="menu-item"><a href="page-blog-single.html">BLOG SINGLE</a></li>
-                                    </ul>
+{{--                                    <ul class="sub-menu right-sub-menu">--}}
+{{--                                        <li class="menu-item"><a href="page-blog.html">BLOG</a></li>--}}
+{{--                                        <li class="menu-item"><a href="page-blog-single.html">BLOG SINGLE</a></li>--}}
+{{--                                    </ul>--}}
                                 </li>
                             </ul>
                         </nav><!-- /#main-nav -->
@@ -182,7 +182,7 @@
                                                  data-splitin="none"
                                                  data-splitout="none"
                                                  data-responsive_offset="on">
-                                                A GLOBAL LEADER IN INFRASTRUCTURE
+                                                Công ty TNHH VĨNH HY
                                             </div>
 
                                             <div class="tp-caption tp-resizeme text-white font-heading font-weight-700"
@@ -202,7 +202,7 @@
                                                  data-splitin="none"
                                                  data-splitout="none"
                                                  data-responsive_offset="on">
-                                                WE WILL BE HAPPY
+                                                CÔNG TY XANH - CÔNG NGHÊ SẠCH
                                             </div>
 
                                             <div class="tp-caption tp-resizeme text-white font-heading font-weight-700"
@@ -222,7 +222,7 @@
                                                  data-splitin="none"
                                                  data-splitout="none"
                                                  data-responsive_offset="on">
-                                                TO TAKE CARE OF YOUR WORK
+                                                HÓA CHẤT & CÔNG NGHỆ MÔI TRƯỜNG
                                             </div>
 
                                             <div class="tp-caption"
@@ -268,7 +268,7 @@
                                                  data-splitin="none"
                                                  data-splitout="none"
                                                  data-responsive_offset="on">
-                                                A GLOBAL LEADER IN INFRASTRUCTURE
+                                                Công ty TNHH VĨNH HY
                                             </div>
 
                                             <div class="tp-caption tp-resizeme text-white font-heading font-weight-700 text-center"
@@ -288,7 +288,7 @@
                                                  data-splitin="none"
                                                  data-splitout="none"
                                                  data-responsive_offset="on">
-                                                WE WILL BE HAPPY
+                                                CÔNG TY XANH - CÔNG NGHÊ SẠCH
                                             </div>
 
                                             <div class="tp-caption tp-resizeme text-white font-heading font-weight-700 text-center"
@@ -308,7 +308,7 @@
                                                  data-splitin="none"
                                                  data-splitout="none"
                                                  data-responsive_offset="on">
-                                                TO TAKE CARE OF YOUR WORK
+                                                HÓA CHẤT & CÔNG NGHỆ MÔI TRƯỜNG
                                             </div>
 
                                             <div class="tp-caption text-center"
@@ -354,7 +354,7 @@
                                                  data-splitin="none"
                                                  data-splitout="none"
                                                  data-responsive_offset="on">
-                                                A GLOBAL LEADER IN INFRASTRUCTURE
+                                                Công ty TNHH VĨNH HY
                                             </div>
 
                                             <div class="tp-caption tp-resizeme text-white font-heading font-weight-700 text-right"
@@ -374,7 +374,7 @@
                                                  data-splitin="none"
                                                  data-splitout="none"
                                                  data-responsive_offset="on">
-                                                WE WILL BE HAPPY
+                                                CÔNG TY XANH - CÔNG NGHÊ SẠCH
                                             </div>
 
                                             <div class="tp-caption tp-resizeme text-white font-heading font-weight-700 text-right"
@@ -394,7 +394,7 @@
                                                  data-splitin="none"
                                                  data-splitout="none"
                                                  data-responsive_offset="on">
-                                                TO TAKE CARE OF YOUR WORK
+                                                HÓA CHẤT & CÔNG NGHỆ MÔI TRƯỜNG
                                             </div>
 
                                             <div class="tp-caption text-right"
